@@ -1,2 +1,2 @@
 # RockPaperScissors
-Simple game of Rock Paper Scissors written in Java
+Simple game of Rock Paper Scissors played against the computer written in Java
